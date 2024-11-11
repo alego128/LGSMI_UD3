@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:s="http://ejemplo.com/libros-ficticios">
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>
+            <nombre>Miguel</nombre>
+            <apellido1>de Cervantes</apellido1>
+            <apellido2>Saavedra</apellido2>
+        </autor>
+        <año>1605</año>
+        <isbn>9788420471839</isbn>
+        <s:genero>Novela</s:genero>
+        <editorial>Francisco de Robles</editorial>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>
+            <nombre>Gabriel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>Márquez</apellido2>
+        </autor>
+        <año>1967</año>
+        <isbn>9780307474728</isbn>
+        <genero>Realismo mágico</genero>
+        <editorial>Sudamericana</editorial>
+    </libro>
+    <libro>
+        <titulo>La sombra del viento</titulo>
+        <autor>
+            <nombre>Carlos</nombre>
+            <apellido1>Ruiz Zafón</apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año>2001</año>
+        <isbn>9788408077408</isbn>
+        <genero>Suspense</genero>
+        <editorial>Planeta</editorial>
+    </libro>
+    <libro>
+        <titulo>La casa de los espíritus</titulo>
+        <autor>
+            <nombre>Isabel</nombre>
+            <apellido1>Allende</apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año>1982</año>
+        <isbn>9780307381405</isbn>
+        <genero>Realismo mágico</genero>
+        <editorial>Plaza y Janés</editorial>
+    </libro>
+    <libro>
+        <titulo>La Regenta</titulo>
+        <autor>
+            <nombre>Leopoldo</nombre>
+            <apellido1>Alas</apellido1>
+            <apellido2>Clarín</apellido2>
+        </autor>
+        <año>1884</año>
+        <isbn>9788491055285</isbn>
+        <genero>Realismo</genero>
+        <editorial>Espasa Calpe</editorial>
+    </libro>
+    <libro>
+        <titulo>Los pilares de la Tierra</titulo>
+        <autor>
+            <nombre>Ken</nombre>
+            <apellido1>Follett</apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año>1989</año>
+        <isbn>9780452295274</isbn>
+        <genero>Histórica</genero>
+        <editorial>HarperCollins</editorial>
+    </libro>
+    <libro>
+        <titulo>Feria</titulo>
+        <autor>
+            <nombre>Antonio</nombre>
+            <apellido1>Muñoz Molina</apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año>1995</año>
+        <isbn>9788432200785</isbn>
+        <genero>Contemporánea</genero>
+        <editorial>Seix Barral</editorial>
+    </libro>
+    <libro>
+        <titulo>El alquimista</titulo>
+        <autor>
+            <nombre>Paulo</nombre>
+            <apellido1>Coelho</apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año>1988</año>
+        <isbn>9780061122415</isbn>
+        <genero>Aventura</genero>
+        <editorial>HarperOne</editorial>
+    </libro>
+    <libro>
+        <titulo>El amor en los tiempos del cólera</titulo>
+        <autor>
+            <nombre>Gabriel</nombre>
+            <apellido1>García</apellido1>
+            <apellido2>Márquez</apellido2>
+        </autor>
+        <año>1985</año>
+        <isbn>9780307380606</isbn>
+        <genero>Romántico</genero>
+        <editorial>Penguin Random House</editorial>
+    </libro>
+    <libro>
+        <titulo>La fiesta ajena</titulo>
+        <autor>
+            <nombre>Juan</nombre>
+            <apellido1>José</apellido1>
+            <apellido2>Saer</apellido2>
+        </autor>
+        <año>1994</año>
+        <isbn>9789507311455</isbn>
+        <genero>Contemporáneo</genero>
+        <editorial>Alianza Editorial</editorial>
+    </libro>
+</biblioteca>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns="http://ejemplo.com/libros">
+    <libro>
+        <titulo></titulo>
+        <autor>
+            <nombre></nombre>
+            <apellido1></apellido1>
+            <apellido2></apellido2>
+        </autor>
+        <año></año>
+        <isbn></isbn>
+        <genero></genero>
+        <editorial></editorial>
+    </libro>
+    </biblioteca>
