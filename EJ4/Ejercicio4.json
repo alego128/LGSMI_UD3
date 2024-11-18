@@ -1,0 +1,76 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Alejandro Gonzalez",
+        "edad": 19,
+        "cargo": "Desarrollador Backend",
+        "salario": 55000,
+        "proyectos": [
+          {
+            "id": 101,
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "2022-01-19",
+            "tareas": [
+              {"id": 201, "descripcion": "Diseño del modelo de datos", "completada": true},
+              {"id": 202, "descripcion": "Implementación de APIs REST", "completada": false}
+            ]
+          },
+          {
+            "id": 102,
+            "nombre": "Plataforma de E-commerce",
+            "fecha_inicio": "2021-06-01",
+            "tareas": [
+              {"id": 203, "descripcion": "Optimización de la base de datos", "completada": false}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Adrian Aranegas",
+        "edad": 18,
+        "cargo": "Diseñadora UX/UI",
+        "salario": 50000,
+        "proyectos": [
+          {
+            "id": 101,
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "2022-01-19",
+            "tareas": [
+              {"id": 204, "descripcion": "Creación de prototipos", "completada": true},
+              {"id": 205, "descripcion": "Diseño de interfaz de usuario", "completada": false}
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Pablo Calvo",
+        "edad": 19,
+        "cargo": "Líder de Proyecto",
+        "salario": 45000,
+        "proyectos": [
+          {
+            "id": 101,
+            "nombre": "Sistema de Gestión",
+            "fecha_inicio": "2022-01-19",
+            "tareas": [
+              {"id": 206, "descripcion": "Definición de alcance del proyecto", "completada": true},
+              {"id": 207, "descripcion": "Seguimiento del cronograma", "completada": false}
+            ]
+          },
+          {
+            "id": 103,
+            "nombre": "Aplicación Móvil",
+            "fecha_inicio": "2024-08-02",
+            "tareas": [
+              {"id": 208, "descripcion": "Planificación de recursos", "completada": false},
+              {"id": 209, "descripcion": "Revisión de entregables", "completada": true}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

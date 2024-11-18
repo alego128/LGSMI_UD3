@@ -1,0 +1,67 @@
+{
+  "escuela": {
+    "estudiantes": [
+      {
+        "id": "E001",
+        "nombre": "Alejandro Gonzalez",
+        "edad": 19,
+        "asignaturas_cursadas": [
+          {
+            "asignatura_id": "MAT101",
+            "calificacion": 85
+          },
+          {
+            "asignatura_id": "HIS202",
+            "calificacion": 90
+          }
+        ]
+      },
+      {
+        "id": "E002",
+        "nombre": "Adrian Aranegas",
+        "edad": 17,
+        "asignaturas_cursadas": [
+          {
+            "asignatura_id": "MAT101",
+            "calificacion": 78
+          },
+          {
+            "asignatura_id": "SCI303",
+            "calificacion": 88
+          }
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "id": "P001",
+        "nombre": "Pablo Calvo",
+        "edad": 40,
+        "asignaturas_enseñadas": ["MAT101", "SCI303"]
+      },
+      {
+        "id": "P002",
+        "nombre": "Antonio Perez",
+        "edad": 50,
+        "asignaturas_enseñadas": ["HIS202"]
+      }
+    ],
+    "asignaturas": [
+      {
+        "id": "MAT101",
+        "nombre": "Matemáticas",
+        "creditos": 4
+      },
+      {
+        "id": "HIS202",
+        "nombre": "Historia",
+        "creditos": 3
+      },
+      {
+        "id": "SCI303",
+        "nombre": "Ciencias",
+        "creditos": 5
+      }
+    ]
+  }
+}
